@@ -16,7 +16,7 @@
 - Reinicio de pueblos en el towny
 - Prueba de Creación de Reinos Sin Requisitos
 - Activado el /t bonus que permite comprar más terrenos en los pueblos y reinos en general sin tener más ciudadanos
-- Agregada música del servidor, la cual será integrada progresivamente, esto es solo una prueba
+- Agregada música del servidor, la cual será integrada progresivamente, esto es una prueba
 
 #### Arreglos:
 

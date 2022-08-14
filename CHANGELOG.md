@@ -1,3 +1,32 @@
+# Versión 0.9.8
+
+#### Cambios:
+
+- Re-escritura del la tienda del servidor al 70%, con precios de venta devaluados del 90% al 94%
+- Mejora de la página de donaciones
+- Re-apertura del servidor
+- Agregada la casa de subastas con el comando /ah que permitirá el comercio remoto entre jugadores
+- Traducción de la casa de subastas completa en un 97%
+- Reinicio del mapa
+- Reinicio de la Economía
+- Creación de la ciudad central con npcs que permitirán un ambiente realista de subastas y comercio, completa en un 4%
+- Nuevo sistema de castigos: baneos, muteos etc...
+- Actualización y Eliminación de algunos plugins para optimizar el servidor
+- Implementación de eventos dentro del servidor
+- Reinicio de pueblos en el towny
+- Prueba de Creación de Reinos Sin Requisitos
+- Activado el /t bonus que permite comprar más terrenos en los pueblos y reinos en general sin tener más ciudadanos
+- Agregada música del servidor, la cual será integrada progresivamente, esto es solo una prueba
+
+#### Arreglos:
+
+- Mejora del ping en un 70% (promedio de 197ms)
+- Más moderadores contratados
+
+#### Comentarios Adicionales:
+
+Ninguno
+
 # Versión 0.9.7
 
 #### Cambios:

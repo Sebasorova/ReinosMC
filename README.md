@@ -1,6 +1,6 @@
 # ReinosMC
 
-Bienvenidos al github oficial del Server de Minecraft Reinos (ReinosMC según su identificación de desarrollo)
+Bienvenidos al github oficial del Server de Minecraft ReinosMC (Reinos inicialmente)
 
 Aquí podrás realizar diferentes cosas como ver las noticias, cambios, proponer ideas y reportar bugs en la pestaña de problemas (issues)
 
@@ -17,7 +17,7 @@ Podrás verlas yendo al archivo llamado NEWS.md (puedes ir allá dando click [Aq
 
 Debes ir a la sección de pull requests en la parte superior de este repositorio y darle al botón nueva solicitud de extracción, selecciona el proyecto principal (que es el único que aparece) y luego explica tu idea en el recuadro que se te abrirá
 
-de momento esto no está disponible, asi que te recomiendo entrar al discord para proner cosas en el canal de sugerencias: [Discord (https://discord.gg/nEMQ5vQzeZ))
+de momento esto no está disponible, asi que te recomiendo entrar al discord para proner cosas en el canal de sugerencias y feedback: [Discord (https://discord.gg/nEMQ5vQzeZ))
 
 #### Como Resportar un bug?
 

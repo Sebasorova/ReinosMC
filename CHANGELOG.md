@@ -1,3 +1,78 @@
+# Versión 0.9.8.3
+
+#### Cambios:
+
+- Eliminada la posibilidad de que los phantoms spawneen de forma natural en el mundo
+
+#### Arreglos:
+
+- Arreglado bug del auth que te kickeaba por "volar"
+
+#### Comentarios Adicionales:
+
+Ninguno
+
+
+# Versión 0.9.8.2
+
+#### Cambios:
+
+- Eliminada la Tienda de Cofres
+- Añadido el soporte a la versión 1.19.4
+- Eliminado el test de comidas custom
+- Añadido el soporte para la versión 1.20
+
+#### Arreglos:
+
+- Añadido el Soporte para traducciones a la 1.20, arreglando el problema de que no se traducían los mensajes en la tablist
+
+#### Comentarios Adicionales:
+
+Ninguno
+
+# Versión 0.9.8.1
+
+#### Cambios:
+
+- Nuevos tips de ayuda a jugadores
+- Agregadas las botellas de experiencia a la /shop
+- Agregada la sección de mobs a la /shop
+- Agregada una arena pvp en el mapa con su respectivo comando de teletransportación (/arenapvp)
+- Precios de los vehículos reducidos y vehículos mejorados en velocidad
+- Aumento de daño en las armas y una reducción del 10% en su precio
+- Agregados los gráficos modificados del menú de pausa en todos los idiomas
+- Añadidos los bancos con tasas de interés
+- Añadido el enderchest al /shop
+- Añadida la protección contra ataques DDoS
+- Agregada sección de vehículos en la /shop
+- Agregado el plugin de traducción automática con algunas traducciones añadidas en funciones escenciales al inglés
+- Cambiado el porcentaje de probabilidad para obtener uranio de minerales
+- Agregada la funcionalidad de añadir imágenes en el juego usando mapas con el comando /tomap <url> resize <tamaño>
+- Añadida la compatibilidad del mod de chat de voz
+- Añadida la wikipedia del servidor
+- Añadida la posibilidad de registrarse e ingresar con Google en la wikipedia del servidor
+- Costos de mantenimiento por cantidad de ciudadanos cambiados
+- Re-añadido el mapa público con pueblos y zonas
+- Aumento del campo de visión de chunks (1 -> 2)
+- Chunks pregenerados hasta un radio de 14000
+- Añadido el soporte para la 1.19
+- Añadidas más armas (granadas y otras)
+- Añadido Spyglass anticheat
+
+#### Arreglos:
+
+- Mejora del ping en un 90% (promedio de 107ms)
+- Errores de scoreboard generales
+- Solucionado el bug del glitch de la perla que permitia traspasar paredes con ellas 
+- Mejoras de protección al backend
+- Arreglados los libros de encantamiento en la /shop
+- Arregladas las skins no-premium
+- Parcheado problema de seguridad crítico (CVE-2023-30859)
+
+#### Comentarios Adicionales:
+
+Ninguno
+
 # Versión 0.9.8
 
 #### Cambios:

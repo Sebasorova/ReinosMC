@@ -8,6 +8,7 @@
 - Añadido el Menú de Pueblos y Naciones con los comandos `/menuciudad` y `/menunacion`.
 - Configuración de /shop re-trabajada.
 - Java actualizado a su versión 17.
+- Agregado el plugin de fútbol con el comando (/futbol) para hacer estadios y jugar.
 
 #### Arreglos:
 
